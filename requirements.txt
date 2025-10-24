@@ -8,6 +8,8 @@ pydantic-settings==2.1.0
 
 # Base de datos
 # supabase==2.9.0
+supabase>=2.0.0
+python-dotenv>=1.0.0
 
 # Data Science y ML
 pandas==2.1.4
